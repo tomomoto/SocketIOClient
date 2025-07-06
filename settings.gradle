@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MyTestApplicationDrawer"
+rootProject.name = "SocketIOClient"
 include ':app'
