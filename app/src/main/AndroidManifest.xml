@@ -10,13 +10,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MyTestApplicationDrawer"
+        android:theme="@style/Theme.SocketIOClient"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="org.tom.socketioclient.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.MyTestApplicationDrawer.NoActionBar">
+            android:theme="@style/Theme.SocketIOClient.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

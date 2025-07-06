@@ -1,4 +1,4 @@
-package com.example.mytestapplicationdrawer;
+package org.tom.socketioclient;
 
 import org.junit.Test;
 

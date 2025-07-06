@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.mytestapplicationdrawer'
+    namespace 'org.tom.socketioclient'
     compileSdk 35
 
     defaultConfig {
-        applicationId "com.example.mytestapplicationdrawer"
+        applicationId "org.tom.socketioclient"
         minSdk 21
         targetSdk 35
         versionCode 1
